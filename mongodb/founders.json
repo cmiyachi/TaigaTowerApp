@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Daya Ranamukhaarachchi",
+      "image": "images/tower.png",
+      "designation": "CEO and Founder",
+      "abbr": "CEO",
+      "description": "Our CEO, Daya, was inspired to create the Taiga Tower from years of growing his own home garden in Baltimore.  When he moved to San Francisco he no longer had a space for a large family garden, which inspired him to create the Taiga Tower.",
+      "featured": "true"
+    },
+    {
+      "name": "Soral Ranamukhaarachchi",
+      "image": "images/tower.png",
+      "designation": "Founder",
+      "abbr": "Founder",
+      "description": "Soral is Daya's son and is a senior majoring in Neuroscience at UCSD.",
+      "featured": "false"
+    },
+    {
+      "name": "Ken Miyachi",
+      "image": "images/KenMiyachi.png",
+      "designation": "Chief Technology Officer",
+      "abbr": "CTO",
+      "description": "Ken is a senior at UCSD and majors in Computer Science.  He is interested in creating products that enhance living.",
+      "featured": "false"
+    }
+  ]

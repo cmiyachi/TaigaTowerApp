@@ -1,0 +1,10 @@
+[
+    {
+      "name": "Order Your Tower",
+      "image": "images/fulltower.png",
+      "label": "New",
+      "price": "299.00",
+      "description": "Order a full Taigo Tower for your home or business.",
+      "featured": "true"
+    }
+  ]
